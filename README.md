@@ -1,2 +1,3 @@
-# training
-this repository is a training to use git and github
+#Mon premier projet Git
+
+Ce repository a été créé lors d’un projet étudiant pour tester Git et ses fonctionnalités.
